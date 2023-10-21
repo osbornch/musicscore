@@ -1,1 +1,1 @@
-"# musicscore" 
+1. Install [Install music](https://musescore.org/en)
